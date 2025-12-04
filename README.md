@@ -25,3 +25,6 @@ WFP配置插件
 
 The Unlicence, 随便用不用问我。
 
+## 怎么用
+
+https://github.com/M3351AN/QuellGTA_WFP/blob/8fada4a3215fc59edff41123d02c3b88c77860fa/QuellGTA_WFP.c#L137
